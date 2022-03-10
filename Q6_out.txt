@@ -1,0 +1,2 @@
+'The solution obtained using the Gauss Siedel is  [ 0.25       -0.375       1.95833333 -0.875       1.05       -0.73333333]
+The solution obtained using the Jacobi mathod is  [ 1.50000241 -0.5         2.         -2.49999724  1.         -1.00000147]'

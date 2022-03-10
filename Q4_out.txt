@@ -1,0 +1,7 @@
+'Slope is (b) -0.00925719196078415
+y-intercept is (a) 4.731434285337494
+Thus the decay constant is negative of the slope  0.00925719196078415
+The mean lifetime of the sample is  108.02411835427607
+The error in the lifetime is 11.840129286515129
+The chi-sqaure value is  15.17084059456292
+The value of chi-square critical at 95 lof is  1.86 Thus we reject the null hypothesis and the linear fit is not a good fit'

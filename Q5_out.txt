@@ -1,0 +1,17 @@
+'******************************************************************************
+First Eigenvalue and eigenvector
+Obtained eigenvalue:     3.732050674599954
+Obtained eigenvector:    [0.2885038216577093, -0.4998286742760552, 0.5773502349226194, -0.5001712670390425, 0.2888464144206967]
+
+Given eigenvalue:        3.7320508075688776
+Given eigenvector:       [0.0, 0.5491004867761125, 0.9510699415570292, 1.098200973552225, 0.9510699415570293]
+******************************************************************************
+******************************************************************************
+Second Eigenvalue and eigenvector
+Obtained eigenvalue:     3.0000000429261475
+Obtained eigenvector:    [-0.5000256353777226, 0.5002130430583015, -0.0003434045103958926, -0.4997868518778598, 0.4999742596202518]
+
+Given eigenvalue:        3.0
+Given eigenvector:       [0.0, 1.0, 1.0000000000000002, 1.414100318299876e-16, -0.9999999999999998]
+******************************************************************************
+There is a descripancy in the eigenvectors corresponding to the second largest eigenvalue. This is because in general, power method is not suitable to find out more than one eigenvector. '
